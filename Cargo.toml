@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+"ublk",
+"ublk-sys",
+]
